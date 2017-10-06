@@ -16,7 +16,7 @@ body {
     opacity: 0.95;
     text-align: center;
     margin: 0 auto;
-    margin-top: 15em;
+    margin-top: 10%;
     box-shadow: 0 5px 15px rgba(0,0,0,.5);
 }
 .emf-image {
@@ -89,18 +89,6 @@ h1 {
   color: #ff7496;
 }
 
-
-/*Footer*/
-#footer li {
-  text-transform: uppercase;
-  text-align: center;
-  text-decoration: none;
-  color: grey;
-  list-style: none;
-  padding-top: 0.85em;
-  padding-bottom: 0.85em;
-}
-
 /*Responsive*/
 @media screen and (max-width: 480px) {
   html, body {
@@ -116,7 +104,7 @@ h1 {
   body {
     font-size: 10pt;
     line-height: 1.75;
-    margin-top: 5px;
+    /*margin-top: 5px;*/
   }
 }
 @media screen and (max-width: 480px) {
